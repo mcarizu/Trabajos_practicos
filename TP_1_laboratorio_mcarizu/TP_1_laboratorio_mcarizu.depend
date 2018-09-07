@@ -31,9 +31,9 @@
 	"Funciones.h"
 	"Validaciones.h"
 
-1536336840 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Funciones.h
+1536339051 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Funciones.h
 
-1533563925 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.h
+1536339045 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.h
 
 1536333254 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/main.c
 	<stdio.h>
@@ -42,7 +42,7 @@
 	"Funciones.h"
 	"Validaciones.h"
 
-1533563925 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.c
+1536339057 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
