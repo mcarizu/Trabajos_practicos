@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1523582015 source:c:\users\matias\documents\curso de c\tp_1_mcarizu\tp_laboratorio_1\tp_1_laboratorio_mcarizu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1523637613 source:c:\users\matias\documents\curso de c\tp_1_mcarizu\tp_laboratorio_1\tp_1_laboratorio_mcarizu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1523638031 c:\users\matias\documents\curso de c\tp_1_mcarizu\tp_laboratorio_1\tp_1_laboratorio_mcarizu\funciones.h
+
+1523579907 c:\users\matias\documents\curso de c\tp_1_mcarizu\tp_laboratorio_1\tp_1_laboratorio_mcarizu\validaciones.h
+
+1523584229 source:c:\users\matias\documents\curso de c\tp_1_mcarizu\tp_laboratorio_1\tp_1_laboratorio_mcarizu\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1536335933 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1536336840 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Funciones.h
+
+1533563925 /home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.h
+
+1536333254 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
+1533563925 source:/home/matias/Documentos/tp_laboratorio_1/TP_1_laboratorio_mcarizu/Validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+	"Validaciones.h"
+
