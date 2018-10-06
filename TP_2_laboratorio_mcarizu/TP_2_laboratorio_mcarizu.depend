@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1538803192 source:/home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/functions_employd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"functions_employd.h"
+
+1538614295 /home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/validaciones.h
+
+1538794150 /home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/functions_employd.h
+
+1538797007 source:/home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"validaciones.h"
+	"functions_employd.h"
+
+1538764113 /home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/menu.h
+	"functions_employd.h"
+
+1538795359 source:/home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"validaciones.h"
+	"functions_employd.h"
+
+1538254033 source:/home/matias/Documentos/Trabajos Practicos C 2018/TP_2_laboratorio_mcarizu/validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1538811000 source:c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\functions_employd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"functions_employd.h"
+
+1538614294 c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\validaciones.h
+
+1538809368 c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\functions_employd.h
+
+1538810123 source:c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"validaciones.h"
+	"functions_employd.h"
+
+1538764112 c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\menu.h
+	"functions_employd.h"
+
+1538810390 source:c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"validaciones.h"
+	"functions_employd.h"
+
+1538254032 source:c:\users\matias\desktop\nueva carpeta\tp_2_laboratorio_mcarizu\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
